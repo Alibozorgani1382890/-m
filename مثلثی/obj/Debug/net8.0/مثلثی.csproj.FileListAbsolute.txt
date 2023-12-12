@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\مثلثی\bin\Debug\net8.0\مثلثی.exe
+C:\Users\Asus\Desktop\مثلثی\bin\Debug\net8.0\مثلثی.deps.json
+C:\Users\Asus\Desktop\مثلثی\bin\Debug\net8.0\مثلثی.runtimeconfig.json
+C:\Users\Asus\Desktop\مثلثی\bin\Debug\net8.0\مثلثی.dll
+C:\Users\Asus\Desktop\مثلثی\bin\Debug\net8.0\مثلثی.pdb
+C:\Users\Asus\Desktop\مثلثی\obj\Debug\net8.0\مثلثی.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\مثلثی\obj\Debug\net8.0\مثلثی.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\مثلثی\obj\Debug\net8.0\مثلثی.AssemblyInfo.cs
+C:\Users\Asus\Desktop\مثلثی\obj\Debug\net8.0\مثلثی.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\مثلثی\obj\Debug\net8.0\مثلثی.dll
+C:\Users\Asus\Desktop\مثلثی\obj\Debug\net8.0\refint\مثلثی.dll
+C:\Users\Asus\Desktop\مثلثی\obj\Debug\net8.0\مثلثی.pdb
+C:\Users\Asus\Desktop\مثلثی\obj\Debug\net8.0\مثلثی.genruntimeconfig.cache
+C:\Users\Asus\Desktop\مثلثی\obj\Debug\net8.0\ref\مثلثی.dll
